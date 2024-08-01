@@ -66,12 +66,12 @@ This project is a basic email client software developed in Java. The application
 
 # Usage
 1. **Run the Application:**
-     -Open MainWindow.java.
-     -Run the main method.
+    - Open MainWindow.java.
+    - Run the main method.
 3. **Compose an Email:**
-     -Click the Compose button.
-     -Fill in the recipient's email address, subject, and body.
-     -Click Send to send the email.
+    - Click the Compose button.
+    - Fill in the recipient's email address, subject, and body.
+    - Click Send to send the email.
 4. **Receive Emails:**
-     -The inbox list will display received emails.
-     -Click on an email to view its contents.
+    - The inbox list will display received emails.
+    - Click on an email to view its contents.
