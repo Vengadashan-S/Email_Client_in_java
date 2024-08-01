@@ -61,6 +61,9 @@ cd EmailClientJava
 3. **Add the necessary jar files (javax.mail.jar and javax.activation.jar) to your project's build path**
 4. **Configure your email credentials and SMTP/IMAP server details in EmailSender.java and EmailReceiver.java.**
 
+# Execution Video Link
+-Visit https://drive.google.com/file/d/1aynynZaSXkFe1sw_fAalvdiPxjlA-amE/view?usp=sharing to know how it works.
+
 # Usage
 1. **Run the Application:**
    -Open MainWindow.java.
