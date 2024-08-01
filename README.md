@@ -55,7 +55,7 @@ This project is a basic email client software developed in Java. The application
 
 ## Installation
 1. **Clone the repository:**
-    - git clone https://github.com/your-username/EmailClientJava.git
+    - git clone https://github.com/Vengadashan-S/Email-Client-Software-in-Java.git
 cd EmailClientJava
 2. **Open the project in your preferred IDE.**
 3. **Add the necessary jar files (javax.mail.jar and javax.activation.jar) to your project's build path**
